@@ -1,0 +1,5 @@
+{
+    "frequency": 33,
+    "md": "giải nghĩa từ \"texted\" sang tiếng việt; đưa ra nghĩa tiếng việt theo từ loại và đưa ra câu ví dụ, các từ liên quan.\n\n**Input:** \n- Texted: verb\n\n**Output:** \n- Nghĩa tiếng việt: gửi tin nhắn\n- Từ loại: động từ\n- Câu ví dụ: \"She texted me to meet up at 5pm.\"\n- Các từ liên quan: message, sms, whatsapp, facebook messenger.",
+    "html": "<p>giải nghĩa từ \"texted\" sang tiếng việt; đưa ra nghĩa tiếng việt theo từ loại và đưa ra câu ví dụ, các từ liên quan.</p>\n<p><strong>Input:</strong> \n- Texted: verb</p>\n<p><strong>Output:</strong> \n- Nghĩa tiếng việt: gửi tin nhắn\n- Từ loại: động từ\n- Câu ví dụ: \"She texted me to meet up at 5pm.\"\n- Các từ liên quan: message, sms, whatsapp, facebook messenger.</p>"
+}

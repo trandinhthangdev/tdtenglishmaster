@@ -1,0 +1,5 @@
+{
+    "frequency": 1,
+    "md": "giải nghĩa từ \"gson\" sang tiếng việt; đưa ra nghĩa tiếng việt theo từ loại và đưa ra câu ví dụ, các từ liên quan.\n\n**Gson** là một thư viện Java để serialize và deserialize các đối tượng Java thành JSON và ngược lại.\n\n* **Từ loại:** noun\n* **Nghĩa tiếng việt:** Thư viện Java để serialize và deserialize JSON\n* **Câu ví dụ:** \"Tôi sử dụng thư viện Gson để chuyển đổi đối tượng Java thành JSON.\"\n* **Từ liên quan:** JSON, serialize, deserialize, Java.",
+    "html": "<p>giải nghĩa từ \"gson\" sang tiếng việt; đưa ra nghĩa tiếng việt theo từ loại và đưa ra câu ví dụ, các từ liên quan.</p>\n<p><strong>Gson</strong> là một thư viện Java để serialize và deserialize các đối tượng Java thành JSON và ngược lại.</p>\n<ul>\n<li><strong>Từ loại:</strong> noun</li>\n<li><strong>Nghĩa tiếng việt:</strong> Thư viện Java để serialize và deserialize JSON</li>\n<li><strong>Câu ví dụ:</strong> \"Tôi sử dụng thư viện Gson để chuyển đổi đối tượng Java thành JSON.\"</li>\n<li><strong>Từ liên quan:</strong> JSON, serialize, deserialize, Java.</li>\n</ul>"
+}

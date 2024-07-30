@@ -1,0 +1,5 @@
+{
+    "frequency": 61,
+    "md": "giải nghĩa từ \"sentence\" sang tiếng việt; đưa ra nghĩa tiếng việt theo từ loại và đưa ra câu ví dụ, các từ liên quan và các từ trái nghĩa.\n\n**Input:** sentence\n\n**Output:**\n\n* **Definition:** Câu nói, câu văn\n* **Part of speech:** noun\n* **Example sentence:** \"She spoke in a clear and concise sentence.\"\n* **Related words:** phrase, clause, statement, utterance\n* **Antonyms:** silence, pause",
+    "html": "<p>giải nghĩa từ \"sentence\" sang tiếng việt; đưa ra nghĩa tiếng việt theo từ loại và đưa ra câu ví dụ, các từ liên quan và các từ trái nghĩa.</p>\n<p><strong>Input:</strong> sentence</p>\n<p><strong>Output:</strong></p>\n<ul>\n<li><strong>Definition:</strong> Câu nói, câu văn</li>\n<li><strong>Part of speech:</strong> noun</li>\n<li><strong>Example sentence:</strong> \"She spoke in a clear and concise sentence.\"</li>\n<li><strong>Related words:</strong> phrase, clause, statement, utterance</li>\n<li><strong>Antonyms:</strong> silence, pause</li>\n</ul>"
+}

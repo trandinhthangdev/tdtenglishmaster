@@ -1,0 +1,5 @@
+{
+    "frequency": 19,
+    "md": "giải nghĩa từ \"sees\" sang tiếng việt; đưa ra nghĩa tiếng việt theo từ loại và đưa ra câu ví dụ, các từ liên quan và các từ trái nghĩa.\n\n**Output:**\n\n* **Definition:** Xem, nhìn, quan sát\n* **Part of speech:** Verb\n* **Example sentence:** She sees the beauty of the sunset.\n* **Related words:** look, watch, observe, notice\n* **Antonyms:** ignore, overlook, disregard",
+    "html": "<p>giải nghĩa từ \"sees\" sang tiếng việt; đưa ra nghĩa tiếng việt theo từ loại và đưa ra câu ví dụ, các từ liên quan và các từ trái nghĩa.</p>\n<p><strong>Output:</strong></p>\n<ul>\n<li><strong>Definition:</strong> Xem, nhìn, quan sát</li>\n<li><strong>Part of speech:</strong> Verb</li>\n<li><strong>Example sentence:</strong> She sees the beauty of the sunset.</li>\n<li><strong>Related words:</strong> look, watch, observe, notice</li>\n<li><strong>Antonyms:</strong> ignore, overlook, disregard</li>\n</ul>"
+}
